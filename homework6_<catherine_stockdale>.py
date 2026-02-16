@@ -38,7 +38,7 @@ cities = {
     "dublin": {
         "country": "Ireland",
         "population": 592000,
-        "fact": "The Guinness Storehouse and Trinity College are located in Dublin. Vikings founded Dublin in the 9th century as a settlement called 'Dubh Linn,' meaning 'black pool."
+        "fact": "The Guinness Storehouse and Trinity College are located in Dublin. Vikings founded Dublin in the 9th century as a settlement called 'Dubh Linn', meaning 'black pool'."
     },
     "cork": {
         "country": "Ireland",
